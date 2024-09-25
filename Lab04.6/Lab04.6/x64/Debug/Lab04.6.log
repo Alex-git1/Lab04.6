@@ -1,0 +1,5 @@
+﻿  Lab04.6.cpp
+C:\Student\PI-12\Symodeiko\AP\Lab04.6\Lab04.6\Lab04.6\Lab04.6.cpp(26,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Student\PI-12\Symodeiko\AP\Lab04.6\Lab04.6\Lab04.6\Lab04.6.cpp(39,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Student\PI-12\Symodeiko\AP\Lab04.6\Lab04.6\Lab04.6\Lab04.6.cpp(49,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Lab04.6.vcxproj -> C:\Student\PI-12\Symodeiko\AP\Lab04.6\Lab04.6\x64\Debug\Lab04.6.exe
